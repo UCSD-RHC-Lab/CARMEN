@@ -2,7 +2,7 @@
 
 CARMEN (Cognitively Assistive Robot for Motivation and Neurorehabilitation) is an open-source social robot system which enables rapid implementation of robot behavior.
 
-We are currently working on polishing code for release. If you would like to be notified when CARMEN is available, please fill out this Google Form.
+We are currently working on polishing code for release. If you would like to be notified when CARMEN is available, please fill out [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfUTrslWUZsv2HEugMYTxyTq_xn2nkCZ-EZ3nRFGECNwxc4nA/viewform).
 
 Here are the papers describing CARMEN's design and development:
 - [CARMEN: A Cognitively Assistive Robot for Personalized Neurorehabilitation at Home.](https://cseweb.ucsd.edu/~lriek/papers/hri2024-bouzida.pdf)  
